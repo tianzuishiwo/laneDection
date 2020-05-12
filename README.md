@@ -28,6 +28,7 @@
 * dist: 相机的畸变系数
 * 去畸变效果如下图：
 
+![](plt/dst1.png)
 ![](plt/dst.png)
 
 
