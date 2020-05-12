@@ -61,7 +61,7 @@
 
 ![](plt/binary_warped1.png)
 
-## 车道线拟合
+## 4.2车道线拟合
 
 ![](plt/binary_warped2.png)
 
